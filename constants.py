@@ -12,5 +12,5 @@ MODEL_FILE = MODEL_DIR / "iris_model.joblib"
 #Training configuration
 TEST_SIZE = 0.33
 RANDOM_STATE = 21
-
+TARGET = "species"
 
